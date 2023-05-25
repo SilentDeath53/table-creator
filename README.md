@@ -1,1 +1,2 @@
-# table-creator
+# Table Creator
+A simple table creator app.
